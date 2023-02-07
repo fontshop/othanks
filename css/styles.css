@@ -61,8 +61,8 @@
 	text-align: center;
 }
 .main_sub_t1{
-	font-family: Happiness-Sans-Print-Regular;
-	font-weight: normal;
+	font-family: Happiness-Sans-Bold;
+	font-weight: 700;
 	font-size: 2em;
 	color: #000000;
 	letter-spacing: -0.06em;
@@ -70,8 +70,8 @@
 	text-align: center;
 }
 .main_sub_t2{
-	font-family: Happiness-Sans-Print-Regular;
-	font-weight: normal;
+	font-family: Happiness-Sans-Bold;
+	font-weight: 400;
 	font-size: 1.2em;
 	color: #8e8e8e;
 	letter-spacing: -0.06em;
@@ -82,7 +82,7 @@
 	height: 70px;
 	background-color: #007482;
 	color: #fff;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 1.8em;
 	letter-spacing: -0.06em;
@@ -144,7 +144,7 @@
 	position: relative;
 	width: 562px;
 	height: 128px;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 45px;
 	color: #000000;
@@ -168,7 +168,7 @@
 	background-color: #007482;
 	border: 1px solid #007482;
 	color: #fff;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 1.8em;
 	letter-spacing: -0.03em;
@@ -184,7 +184,7 @@
 	background-color: #fff;
 	border: 1px solid #484848;
 	color: #484848;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 1.8em;
 	letter-spacing: -0.03em;
@@ -239,7 +239,7 @@
 	position: absolute;
 	width: 610px;
 	height: 128px;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 45px;
 	color: #000000;
@@ -253,8 +253,8 @@
 	width: 610px;
 	height: 30px;
 	margin: auto;
-	font-family: Happiness-Sans-Print-Regular;
-	font-weight: normal;
+	font-family: Happiness-Sans-Bold;
+	font-weight: 400;
 	font-size: 1.2em;
 	color: #000000;
 	letter-spacing: -0.06em;
@@ -288,7 +288,7 @@
 .a_box3{position: relative;width: 450px;height: 65px;margin-top: 18px;}
 
 .a_tit{
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 40px;
 	color: #000000;
@@ -297,8 +297,8 @@
 	text-align: center;
 }
 .a_scr{
-	font-family: Happiness-Sans-Print-Regular;
-	font-weight: normal;
+	font-family: Happiness-Sans-Bold;
+	font-weight: 400;
 	font-size: 1.2em;
 	color: #000000;
 	letter-spacing: -0.06em;
@@ -314,7 +314,7 @@
 	height: 70px;
 	background-color: #007482;
 	color: #fff;
-	font-family: Happiness-Sans-Print-Bold;
+	font-family: Happiness-Sans-Bold;
 	font-weight: 700;
 	font-size: 1.8em;
 	letter-spacing: -0.06em;
