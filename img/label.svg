@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="159" viewBox="0 0 99 159">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #007482;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#패스_1445);
+      }
+    </style>
+    <filter id="패스_1445" x="0" y="0" width="99" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#717171" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="label" transform="translate(-569 -147)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 569, 147)">
+      <path id="패스_1445-2" data-name="패스 1445" class="cls-1" d="M0,0H87V146L43.5,120.922,0,146Z" transform="translate(6)"/>
+    </g>
+    <path id="패스_1444" data-name="패스 1444" class="cls-2" d="M15.333,9.12l4.161-6.954A32.1,32.1,0,0,1,8.721-.513c7.41-3.021,11.343-10.26,11.343-20.235C20.064-34.029,13-42.465,0-42.465s-20.064,8.436-20.064,21.717C-20.064-7.41-13,1.083,0,1.083,3.876,5.073,8.664,8.322,15.333,9.12ZM-11.8-20.691c0-10.2,3.762-15.048,11.8-15.048s11.8,4.845,11.8,15.048C11.8-10.545,8.037-5.7,0-5.7S-11.8-10.545-11.8-20.691Z" transform="translate(618.5 230.88)"/>
+  </g>
+</svg>
