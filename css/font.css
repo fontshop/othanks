@@ -1,28 +1,27 @@
 
-/*--
+
 @font-face {
     font-family: 'Happiness-Sans-Title';
-    font-style: normal;
     font-weight: normal;
-    src: local('Happiness Sans Title'), local('Happysans-Title'), url(../fonts/Happiness-Sans-Print-Title.eot), url(../fonts/Happiness-Sans-Print-Title.eot?#iefix) format('embedded-opentype'), url(../fonts/Happiness-Sans-Print-Title.woff) format('woff'), url(../fonts/Happiness-Sans-Print-Title.otf) format('opentype');
+    font-style: normal;
+    src: local('Happiness-Sans-Title'), local('Happysans-Title'), url(../font/Happiness-Sans-Title.eot), url(../font/Happiness-Sans-Title.eot?#iefix) format('embedded-opentype'), url(../font/Happiness-Sans-Title.woff) format('woff'), url(../font/Happiness-Sans-Title.woff2) format('woff2'), url(../font/Happiness-Sans-Title.otf) format('opentype');
 }
-
 @font-face {
-    font-family: 'Happiness-Sans-Print-Regular';
+    font-family: 'Happiness-Sans-Regular';
     font-style: normal;
     font-weight: 400;
-    src: local('Happiness Sans Regular'), local('Happysans-Regular'), url(../fonts/Happiness-Sans-Print-Regular.eot), url(../fonts/Happiness-Sans-Print-Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/Happiness-Sans-Print-Regular.woff) format('woff'), url(../fonts/Happiness-Sans-Print-Regular.otf) format('opentype');
+    src: local('Happiness-Sans-Regular'), local('Happysans-Regular'), url(../font/Happiness-Sans-Regular.eot), url(../font/Happiness-Sans-Regular.eot?#iefix) format('embedded-opentype'), url(../font/Happiness-Sans-Regular.woff) format('woff'), url(../font/Happiness-Sans-Regular.woff2) format('woff2'), url(../font/Happiness-Sans-Regular.otf) format('opentype');
 }
 
 @font-face {
-    font-family: 'Happiness-Sans-Print-Bold';
+    font-family: 'Happiness-Sans-Bold';
     font-style: normal;
     font-weight: 700;
-    src: local('Happiness Sans Bold'), local('Happysans-Bold'), url(../fonts/Happiness-Sans-Print-Bold.eot), url(../fonts/Happiness-Sans-Print-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/Happiness-Sans-Print-Bold.woff) format('woff'), url(../fonts/Happiness-Sans-Print-Bold.otf) format('opentype');
+    src: local('Happiness-Sans-Bold'), local('Happysans-Bold'), url(../font/Happiness-Sans-Bold.eot), url(../font/Happiness-Sans-Bold.eot?#iefix) format('embedded-opentype'), url(../font/Happiness-Sans-Bold.woff) format('woff'), url(../font/Happiness-Sans-Bold.woff2) format('woff2'), url(../font/Happiness-Sans-Bold.otf) format('opentype');
 }
 
---*/
 
+/*--
 @font-face {
     font-family: 'Happiness-Sans-Title';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Happiness-Sans-Title.woff2') format('woff2');
@@ -38,8 +37,9 @@
 }
 
 @font-face {
-    font-family: 'Happiness-Sans-Bold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Happiness-Sans-Bold.woff2') format('woff2');
+    font-family: 'Happiness-Sans-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Happiness-Sans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
+--*/

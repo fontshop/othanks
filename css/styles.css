@@ -61,8 +61,8 @@
 	text-align: center;
 }
 .main_sub_t1{
-	font-family: Happiness-Sans-Bold;
-	font-weight: 700;
+	font-family: Happiness-Sans-Regular;
+	font-weight: 400;
 	font-size: 2em;
 	color: #000000;
 	letter-spacing: -0.06em;
@@ -70,7 +70,7 @@
 	text-align: center;
 }
 .main_sub_t2{
-	font-family: Happiness-Sans-Bold;
+	font-family: Happiness-Sans-Regular;
 	font-weight: 400;
 	font-size: 1.2em;
 	color: #8e8e8e;
@@ -253,7 +253,7 @@
 	width: 610px;
 	height: 30px;
 	margin: auto;
-	font-family: Happiness-Sans-Bold;
+	font-family: Happiness-Sans-Regular;
 	font-weight: 400;
 	font-size: 1.2em;
 	color: #000000;
@@ -297,7 +297,7 @@
 	text-align: center;
 }
 .a_scr{
-	font-family: Happiness-Sans-Bold;
+	font-family: Happiness-Sans-Regular;
 	font-weight: 400;
 	font-size: 1.2em;
 	color: #000000;
