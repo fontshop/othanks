@@ -1,3 +1,4 @@
+.blank{position:absolute;width: 140px;height: 92px;z-index: 10;background-color: aqua;opacity: 0;}
 /**--main style--*/
 .main_box1{
 	width: 100vw;
@@ -104,11 +105,10 @@
 	overflow-x: hidden;
 }
 .q_top{
+	position: relative;
+	margin: auto;
 	width: 90vw;
 	height: 90px;
-	display: flex;
-	margin: auto;
-	justify-content: center;
 	margin-top: 30px;
 	margin-bottom: 50px;
 	background-image: url('../img/top01_01.svg');
@@ -205,13 +205,12 @@
 	overflow-x: hidden;
 }
 .p_top{
+	position: relative;
 	width: 90vw;
 	height: 90px;
-	display: flex;
 	margin: auto;
-	justify-content: center;
 	margin-top: 30px;
-	margin-bottom: 50px;
+	margin-bottom: 00px;
 	background-image: url('../img/top02_01.svg');
 	background-repeat: no-repeat;
 	background-position-x: center;

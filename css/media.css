@@ -8,10 +8,10 @@
 @media (max-width: 1100px){.q_top{background-image: url('../img/top01_09.svg');}.p_top{background-image: url(../img/top02_09.svg);}}
 @media (max-width: 1000px){.q_top{background-image: url('../img/top01_10.svg');}.p_top{background-image: url(../img/top02_10.svg);}}
 @media (max-width:  900px){.q_top{background-image: url('../img/top01_11.svg');}.p_top{background-image: url(../img/top02_11.svg);}}
-@media (max-width:  800px){.q_top{background-image: url('../img/top01_12.svg');}.p_top{background-image: url(../img/top02_12.svg);}}
+@media (max-width:  800px){.q_top{background-image: url('../img/top01_12.svg');}.p_top{background-image: url(../img/top02_12.svg);}.blank{width: 128px;height: 86px;}}
 @media (max-width:  700px){.q_top{background-image: url('../img/top01_13.svg');}.p_top{background-image: url(../img/top02_13.svg);}}
 @media (max-width:  600px){.q_top{background-image: url('../img/top01_14.svg');}.p_top{background-image: url(../img/top02_14.svg);}}
-@media (max-width:  500px){.q_top{background-image: url('../img/top01_15.svg');	margin-bottom: 40px;}.p_top{background-image: url(../img/top02_15.svg);}}
+@media (max-width:  500px){.q_top{background-image: url('../img/top01_15.svg');	margin-bottom: 40px;}.p_top{background-image: url(../img/top02_15.svg);}.blank{width: 115px;height: 80px;}}
 @media (max-width:  400px){.q_top{background-image: url('../img/top01_16.svg'); margin-bottom: 30px;margin-top: 40px;}.p_top{background-image: url(../img/top02_16.svg);}}
 @media (max-width:  300px){.q_top{background-image: url('../img/top01_17.svg'); margin-bottom: 25px;margin-top: 20px;}.p_top{background-image: url(../img/top02_17.svg);}}
 
@@ -38,6 +38,7 @@
 	.q_bt_wrap{width: 480px;height: 57px;margin-top: 0px;}
 	.bt01{width: 220px;height: 55px;}
 	.bt02{width: 220px;height: 55px;}
+	.p_top{margin-bottom: 10px;}
 }
 @media (max-width: 870px){
 	.p_cont_b{width: 700px;}
@@ -46,6 +47,7 @@
 @media (max-width: 700px){
 	.p_cont_b{width: 650px;}
 	.p_circle{width: 650px;}
+	.p_top{margin-bottom: 30px;}
 }
 
 @media (max-width: 650px){
@@ -91,6 +93,7 @@
 	.p_circle{width: 400px;}
 	.p_title{width: 400px;font-size: 40px;}
 	.p_script{width: 350px;}
+	.p_top{margin-bottom: 50px;}
 }
 @media (max-width: 450px){
 	.p_cont_b{width: 400px;}
@@ -106,6 +109,8 @@
 	.a_box3{width: 400px;margin-top: 0px;margin-bottom: 50px;}
 	.a_box1>img{width: 400px;}
 	.a_tit{font-size: 30px;}
+
+	.q_cont_b{margin-bottom: 60px;}
 }
 @media (max-width: 400px){
 	.p_cont_b{width: 330px;height:70vh;}
